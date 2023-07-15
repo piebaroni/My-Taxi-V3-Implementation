@@ -1,0 +1,7 @@
+ORIGINAL VERSION
+Max Reward: 15, Min Reward: -2379, Average Reward: -4.5221
+Max Steps: 1437, Min Steps: 6, Average Steps: 19.2221
+
+MODIFIED VERSION
+Max Reward: 20, Min Reward: -243, Average Reward: -3.8113
+Max Steps: 36, Min Steps: 1, Average Steps: 5.1886
